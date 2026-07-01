@@ -1,11 +1,5 @@
-# MobileRecommenderSystem 📲
+# MobileRecommenderSystem 
 
-#### Try it out by yourself! - https://mobile-recommender-system-gyanprakashkushwaha.streamlit.app/
----
-
-# Demo
-
-https://github.com/GyanPrakashkushwaha/MobileRecommenderSystem/assets/127115588/2cda816b-169c-4383-8c7e-c980be27a2ae
 
 
 ## About
